@@ -1,0 +1,7 @@
+{
+  "name": "pmfers-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gchablowski/pmfers-back.git",
+  "license": "MIT"
+}
